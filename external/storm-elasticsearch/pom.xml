@@ -37,7 +37,7 @@
     </developers>
 
     <properties>
-        <elasticsearch.version>1.6.0</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
     </properties>
 
     <dependencies>
